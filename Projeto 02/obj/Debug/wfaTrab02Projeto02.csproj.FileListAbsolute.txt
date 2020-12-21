@@ -1,0 +1,20 @@
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.csprojAssemblyReference.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.Form1.resources
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.Properties.Resources.resources
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.csproj.GenerateResource.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.csproj.CoreCompileInputs.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\bin\Debug\wfaTrab02Projeto02.exe.config
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\bin\Debug\wfaTrab02Projeto02.exe
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\bin\Debug\wfaTrab02Projeto02.pdb
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.exe
+C:\Pedro\UFU\POO\wfaTrab02Projeto02\obj\Debug\wfaTrab02Projeto02.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\bin\Debug\wfaTrab02Projeto02.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\bin\Debug\wfaTrab02Projeto02.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\bin\Debug\wfaTrab02Projeto02.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.Form1.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Trabalho 02 POO\Projeto 02\obj\Debug\wfaTrab02Projeto02.pdb

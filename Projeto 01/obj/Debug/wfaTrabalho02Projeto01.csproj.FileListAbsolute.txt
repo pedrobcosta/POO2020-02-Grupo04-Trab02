@@ -1,0 +1,10 @@
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\bin\Debug\wfaTrabalho02Projeto01.exe.config
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\bin\Debug\wfaTrabalho02Projeto01.exe
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\bin\Debug\wfaTrabalho02Projeto01.pdb
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.csprojAssemblyReference.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.Form1.resources
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.Properties.Resources.resources
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.csproj.GenerateResource.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.csproj.CoreCompileInputs.cache
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.exe
+C:\Pedro\UFU\POO\wfaTrab02Projeto01\obj\Debug\wfaTrabalho02Projeto01.pdb
